@@ -4,7 +4,7 @@
 
 前台地址：  http://zf.gitapp.cn
 
-后台地址： http://zf.gitapp.cn
+后台地址： http://zf.gitapp.cn/admin
 
 后台管理帐号：
 
